@@ -16,6 +16,8 @@ explain:
     second row has 6 because both lake[1][0] and lake[1][2] has 3 faces connected to water and lake[1][1] doesn't connect to water.
     third row has 2 because lake[2][1] has 2 sides connected to water.
     last row has 5 because lake[3][0] has 3 sides and lake[3][1] has 2 sides connected to water.
+
+Hint: BFS, DFS -> graph traversal
 """
 
 """
@@ -40,5 +42,3 @@ Each row must contain the digits 1-9 without repetition.
 Each column must contain the digits 1-9 without repetition.
 Each of the nine 3 x 3 sub-boxes of the grid must contain the digits 1-9 without repetition.
 """
-
-
