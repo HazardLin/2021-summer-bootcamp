@@ -20,6 +20,7 @@ explain:
 Hint: BFS, DFS -> graph traversal
 """
 
+
 """
 Q2. Determine if a 9 x 9 Sudoku board is valid. 
 
